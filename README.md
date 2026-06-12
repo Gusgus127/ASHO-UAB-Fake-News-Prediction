@@ -13,7 +13,7 @@
 ├── asho-uab.ipynb              # Phase 1 — PubMedBERT fine-tuning and evaluation
 ├── explainability.ipynb        # Phase 2 — Integrated Gradients + attention attribution
 ├── rag_pipeline.ipynb          # Phase 3 — Zero-shot RAG pipeline (PubMed + Llama 3.1)
-├── ASHO UAB FollowUp.pdf       # Project follow-up / deliverable document
+├── ASHO UAB FollowUp.pdf       # Project follow-up presentation
 └── README.md
 ```
 
